@@ -1,0 +1,8 @@
+rule,rows_removed,rows_left,reason
+raw rows,0,1067371,
+missing Customer ID,243007,824364,"cannot attribute the purchase to a customer, so it cannot enter a customer x product matrix"
+cancellation (Invoice starts with 'C'),18744,805620,a cancelled order is not a purchase; counting it would invent demand
+Quantity <= 0,0,805620,returns and stock adjustments are not purchases
+Price <= 0,71,805549,"free samples, write-offs and bad-debt adjustments are not real sales"
+"non-product StockCode (POST, M, D, BANK CHARGES, ...)",2917,802632,"postage, manual entries, fees and test codes are not products we could recommend"
+exact duplicate line,26055,776577,"identical lines (same invoice, product, qty, time, price) are logging duplicates"

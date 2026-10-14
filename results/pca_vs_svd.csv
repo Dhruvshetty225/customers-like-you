@@ -1,0 +1,10 @@
+Measure,PCA,Truncated SVD
+k used,50,50
+Fit time (seconds),0.44,0.23
+Peak memory during fit (MB),7.7,9.7
+Size of stored factors (MB),3.66,3.66
+Relative reconstruction error,0.8316,0.8324
+Variance explained,0.2742,0.273
+Hit rate at 10 on held-out purchases,40.7%,39.4%
+Best-seller baseline hit rate at 10,27.0%,27.0%
+What component 1 represents (evidence),"100% of products load the same way; corr. with customer volume 0.98; top: PACK OF 72 RETRO SPOT CAKE CASES, LUNCH BAG RED RETROSPOT, WHITE HANGING HEART T-LIGHT HOLDER","100% of products load the same way; corr. with customer volume 0.98; top: WHITE HANGING HEART T-LIGHT HOLDER, PACK OF 72 RETRO SPOT CAKE CASES, REGENCY CAKESTAND 3 TIER"

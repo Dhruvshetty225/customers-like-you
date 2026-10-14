@@ -1,0 +1,10 @@
+,dtype,non_null,missing,missing_pct,n_unique
+Invoice,str,1067371.0,0.0,0.0,53628.0
+StockCode,str,1067371.0,0.0,0.0,5131.0
+Description,string,1062989.0,4382.0,0.41,5655.0
+Quantity,int64,1067371.0,0.0,0.0,1057.0
+InvoiceDate,datetime64[us],1067371.0,0.0,0.0,47635.0
+Price,float64,1067371.0,0.0,0.0,2807.0
+Customer ID,float64,824364.0,243007.0,22.77,5942.0
+Country,str,1067371.0,0.0,0.0,43.0
+__TOTAL_ROWS__,,1067371.0,,,

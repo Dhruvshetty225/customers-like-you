@@ -1,0 +1,3 @@
+approach,hit_rate_at_10,ci95_plus_minus,test_customers
+"Truncated SVD, k=50",0.3941453214845792,0.021898330559085376,1913
+Best sellers (baseline),0.2702561421850497,0.019900848658552794,1913

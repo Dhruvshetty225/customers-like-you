@@ -1,0 +1,19 @@
+{
+  "k": 50,
+  "matrix_shape": [
+    5471,
+    3686
+  ],
+  "sparsity_pct": 97.949,
+  "dense_MB": 161.3,
+  "sparse_MB": 4.99,
+  "factors_MB": 3.66,
+  "shrink_factor_vs_dense": 44.0,
+  "relative_error_svd": 0.8324,
+  "hit_rate_svd": 0.3941,
+  "hit_rate_pca": 0.4072,
+  "hit_rate_bestsellers": 0.2703,
+  "test_customers": 1913,
+  "nightly_job_seconds": 0.79,
+  "n_segments": 6
+}

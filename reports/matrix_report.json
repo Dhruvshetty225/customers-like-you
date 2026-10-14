@@ -1,0 +1,23 @@
+{
+  "shape": [
+    5471,
+    3686
+  ],
+  "non_zeros": 413691,
+  "sparsity_pct": 97.949,
+  "avg_products_per_customer": 75.6,
+  "dense_MB_float64": 161.3,
+  "sparse_MB_csr": 4.99,
+  "factors_MB_k50": 3.66,
+  "purchase_value": "binary",
+  "min_customers_per_product": 10,
+  "test_cutoff": "2011-10-09",
+  "test_months": 2,
+  "products_dropped_by_filter": 843,
+  "test_customer_product_pairs": 95278,
+  "pairs_with_known_customer": 81438,
+  "pairs_new_to_customer": 49684,
+  "pairs_new_and_in_catalogue": 44922,
+  "eval_customers": 1913,
+  "build_seconds": 5.6
+}

@@ -1,0 +1,42 @@
+{
+  "svd": {
+    "share_of_products_with_same_sign": 1.0,
+    "corr_with_customer_volume": 0.9760733684251912,
+    "top_positive": [
+      "WHITE HANGING HEART T-LIGHT HOLDER",
+      "PACK OF 72 RETRO SPOT CAKE CASES",
+      "REGENCY CAKESTAND 3 TIER",
+      "JUMBO BAG RED RETROSPOT",
+      "LUNCH BAG RED RETROSPOT",
+      "60 TEATIME FAIRY CAKE CASES"
+    ],
+    "top_negative": [
+      "AMBER GLASS TASSLE BAG CHARM",
+      "PURPLE GLASS TASSLE BAG CHARM",
+      "FOUR PICTURE WHITE GLASS FRAME",
+      "PINK SQUARE COMPACT MIRROR",
+      "JAZZ HEARTS SPIRAL NOTEPAD",
+      "FROSTED WHITE BASE"
+    ]
+  },
+  "pca": {
+    "share_of_products_with_same_sign": 0.9997287032013022,
+    "corr_with_customer_volume": 0.978744313960646,
+    "top_positive": [
+      "PACK OF 72 RETRO SPOT CAKE CASES",
+      "LUNCH BAG RED RETROSPOT",
+      "WHITE HANGING HEART T-LIGHT HOLDER",
+      "LUNCH BAG SPACEBOY DESIGN",
+      "JUMBO BAG RED RETROSPOT",
+      "60 TEATIME FAIRY CAKE CASES"
+    ],
+    "top_negative": [
+      "Next Day Carriage",
+      "AMBER GLASS TASSLE BAG CHARM",
+      "FROSTED WHITE BASE",
+      "CHERRY BLOSSOM BATHROOM CABINET",
+      "PURPLE GLASS TASSLE BAG CHARM",
+      "JAZZ HEARTS SPIRAL NOTEPAD"
+    ]
+  }
+}
