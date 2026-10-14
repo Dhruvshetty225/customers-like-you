@@ -1,7 +1,7 @@
 {
   "svd": {
     "share_of_products_with_same_sign": 1.0,
-    "corr_with_customer_volume": 0.9760733684251912,
+    "corr_with_customer_volume": 0.976073368425191,
     "top_positive": [
       "WHITE HANGING HEART T-LIGHT HOLDER",
       "PACK OF 72 RETRO SPOT CAKE CASES",
@@ -21,7 +21,7 @@
   },
   "pca": {
     "share_of_products_with_same_sign": 0.9997287032013022,
-    "corr_with_customer_volume": 0.978744313960646,
+    "corr_with_customer_volume": 0.9787443139606465,
     "top_positive": [
       "PACK OF 72 RETRO SPOT CAKE CASES",
       "LUNCH BAG RED RETROSPOT",

@@ -1,6 +1,6 @@
 Measure,PCA,Truncated SVD
 k used,50,50
-Fit time (seconds),0.44,0.23
+Fit time (seconds),0.15,0.09
 Peak memory during fit (MB),7.7,9.7
 Size of stored factors (MB),3.66,3.66
 Relative reconstruction error,0.8316,0.8324

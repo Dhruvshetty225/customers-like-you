@@ -14,6 +14,6 @@
   "hit_rate_pca": 0.4072,
   "hit_rate_bestsellers": 0.2703,
   "test_customers": 1913,
-  "nightly_job_seconds": 0.79,
+  "nightly_job_seconds": 0.42,
   "n_segments": 6
 }
